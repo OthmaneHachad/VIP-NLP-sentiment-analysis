@@ -1,0 +1,5 @@
+# Pin exact versions
+huggingface_hub==0.24.5
+datasets==2.20.0
+python-dotenv==1.0.1
+rich==13.7.1
